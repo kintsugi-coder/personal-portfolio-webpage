@@ -179,6 +179,10 @@ hr {
   background-color: #303841;
 }
 
+.contact-links {
+  width: 100%;
+}
+
 .contact-links ul {
   display: flex;
   flex-wrap: wrap;
