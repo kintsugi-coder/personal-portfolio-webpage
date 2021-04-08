@@ -179,10 +179,6 @@ hr {
   background-color: #303841;
 }
 
-.contact-links {
-  width: 100%;
-}
-
 .contact-links ul {
   display: flex;
   flex-wrap: wrap;
@@ -201,14 +197,14 @@ hr {
   justify-content: center;
   font-size: 25px;
   margin: 3em 1em;
-  height: 50px;
-  width: 50px;
+  height: 45px;
+  width: 45px;
   text-decoration: none;
 }
 
 .contact-links a:hover {
-  height: 55px;
-  width: 55px;
+  height: 50px;
+  width: 50px;
 }
 
 /* footer */
